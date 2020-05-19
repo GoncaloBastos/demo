@@ -4,10 +4,10 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
+  "login": {
+    "success": TRUE
+    "token": "687fea6894bc4f8a4r6d4sa"
+  },
   "profile": {
     "name": "typicode"
   }
