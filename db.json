@@ -5,7 +5,7 @@
     { "id": 3, "title": "Post 3" }
   ],
   "login": {
-    "success": TRUE
+    "success": TRUE,
     "token": "687fea6894bc4f8a4r6d4sa"
   },
   "profile": {
