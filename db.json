@@ -6,7 +6,11 @@
   ],
   "login": {
     "success": true,
+    "user_id": "486735185",
     "token": "687fea6894bc4f8a4r6d4sa"
+  },
+  "validate": {
+    "is_valid":true
   },
   "profile": {
     "name": "GoncaloBastos"
